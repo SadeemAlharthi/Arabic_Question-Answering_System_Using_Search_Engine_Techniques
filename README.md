@@ -3,3 +3,14 @@ Retrieval-information-by-using-Search-Engines-technique-for-System-of-Labor-data
 
 # Dataset
 we have been worked using the System of Labor dataset available on the website of the Ministry of Human Resources and Social Development in the Kingdom of Saudi Arabia. The dataset contains 245 articles divided into six sections. This type of dataset known as primary data that has been collected from the first-hand experience. Primary data has not been published before and is more reliable, authentic, and objective.
+
+# Porject Folder Structure:
+
+- The code.ipynb - Jupyter notebook that includes all the code
+- The dataset folder contains the dataset
+
+# Contact
+
+If you have any suggestions or questions, please reach out to sadeem1.alharthi on Gmail
+
+
