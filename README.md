@@ -9,6 +9,17 @@ we have been worked using the System of Labor dataset available on the website o
 - The code.ipynb - Jupyter notebook that includes all the code
 - The dataset folder contains the dataset
 
+# How to cite this dataset:
+Our paper:
+@inproceedings{alamir2021arabic,
+  title={Arabic Question-Answering System Using Search Engine Techniques},
+  author={Alamir, Manal and Alharth, Sadeem and Alqurashi, Shahad and Alqurashi, Tahani},
+  booktitle={International Conference on Multimedia Technology and Enhanced Learning},
+  pages={333--343},
+  year={2021},
+  organization={Springer}
+}
+
 # Contact
 
 If you have any suggestions or questions, please reach out to sadeem1.alharthi on Gmail
