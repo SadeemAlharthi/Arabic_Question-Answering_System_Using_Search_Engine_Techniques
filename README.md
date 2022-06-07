@@ -13,14 +13,6 @@ we have been worked using the System of Labor dataset available on the website o
 
 If you find this dataset useful for your research, please cite our paper: https://link.springer.com/chapter/10.1007/978-3-030-82562-1_31
 
-@inproceedings{alamir2021arabic,
-  title={Arabic Question-Answering System Using Search Engine Techniques},
-  author={Alamir, Manal and Alharth, Sadeem and Alqurashi, Shahad and Alqurashi, Tahani},
-  booktitle={International Conference on Multimedia Technology and Enhanced Learning},
-  pages={333--343},
-  year={2021},
-  organization={Springer}
-}
 
 # Contact
 
