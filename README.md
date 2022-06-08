@@ -6,8 +6,8 @@ We have been worked using the System of Labor dataset available on the website o
 
 # Porject Folder Structure:
 
-- The code.ipynb - Jupyter notebook that includes all the code.
-- The dataset folder contains the dataset.
+- The [code.ipynb](https://github.com/SadeemAlharthi/Arabic_Question-Answering_System_Using_Search_Engine_Techniques/blob/master/%20Code.ipynb) Jupyter notebook that includes all the code.
+- The [dataset](https://github.com/SadeemAlharthi/Arabic_Question-Answering_System_Using_Search_Engine_Techniques/tree/master/Dataset) folder contains the dataset.
 
 # Citation:
 
